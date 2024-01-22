@@ -7,8 +7,7 @@
 :man_student: Jabar Arya Lokananta <br>
 
 # Report 
-[FULL REPORT ON ‘CLUBBI’, EVENT MANAGEMENT APPLICATION FOR  UNIVERSITY SOCIETIES](design_thinking_report.pdf)
-
+[:memo:FULL REPORT ON ‘CLUBBI’, EVENT MANAGEMENT APPLICATION FOR  UNIVERSITY SOCIETIES](design_thinking_report.pdf)
 
 # Video 
 
