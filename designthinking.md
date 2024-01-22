@@ -7,7 +7,8 @@
 :man_student: Jabar Arya Lokananta <br>
 
 # Report 
-[FULL REPORT PDF]  
+[FULL REPORT PDF](TIS_designthinking/design_thinking_report.pdf)
+
 
 # Video 
 
