@@ -10,7 +10,7 @@
 [:memo:FULL REPORT ON ‘CLUBBI’, EVENT MANAGEMENT APPLICATION FOR  UNIVERSITY SOCIETIES](design_thinking_report.pdf)
 
 # Video 
-[Video Summary](design_thinking_videocompressed)
+[VIDEO SUMMARY](design_thinking_videocompressed.mov)
 # Presentation
 
 ## Reflection
