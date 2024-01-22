@@ -11,7 +11,8 @@
 
 # Video 
 [:camera_flash: VIDEO SUMMARY (COMPRESSED)](design_thinking_videocompressed.mov) <br>
-[:video_camera: VIDEO SUMMARY (GOOGLE DRIVE)](https://drive.google.com/file/d/1VuSYDnECnGyQ7t9Y7TPRPv1Km6QHaFmz/view?usp=sharing)
+[:video_camera: VIDEO SUMMARY (GOOGLE DRIVE)](https://drive.google.com/file/d/1VuSYDnECnGyQ7t9Y7TPRPv1Km6QHaFmz/view?usp=sharing) <br>
+[:movie_camera: VIDEO SUMMARY (YOUTUBE)](https://www.youtube.com/watch?v=dX_0P9aj9WQ)
 # Presentation
 [:speaking_head: PRESENTATION SLIDES](presentation_slide.pdf)
 
