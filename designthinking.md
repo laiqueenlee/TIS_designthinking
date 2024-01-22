@@ -7,6 +7,7 @@
 :man_student: Jabar Arya Lokananta <br>
 
 # Report 
+[FULL REPORT PDF]  
 
 # Video 
 
